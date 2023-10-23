@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">locationTest</string>
+    <string name="title_barcode_scan">Barcode Scanning</string>
+    <string name="title_geolocation">Geolocation Calculation</string>
+    <string name="title_main">Your App Title</string>
 </resources>
